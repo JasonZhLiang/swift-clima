@@ -1,0 +1,10 @@
+//
+//  Config.xcconfig
+//  Clima
+//
+//  Created by Jason Liang on 2023-03-31.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+SECRET_KEY = "0x7fda76019e00"
